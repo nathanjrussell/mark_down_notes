@@ -9,3 +9,6 @@ The metric system of measure has the following identities for length measurement
 * 1000 milimeters = 1 meter
 * 100 centimeters = 1 meter
 * 1000 meters = 1 kilometer
+
+#Conversion Between Metric and US Standard
+* 1 inch = 2.54 centimeters
