@@ -1,5 +1,5 @@
 #Example 1
-Suppose Cindy wants to make regular monthly payments (end of month) of 325 dollars into an investment tool.  The investment tool pays 6.9% interest and compounds at the end of each month.  How much will this investment strategy be worth at the end of 35 years?
+Suppose Cindy wants to make regular monthly payments (end of month) of 325 dollars into an investment tool.  The investment tool pays 6.9% interest and compounds at the end of each month.  How much will this investment strategy be worth at the end of 35 years? 
 
 ##Solution
 
