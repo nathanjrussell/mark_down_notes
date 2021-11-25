@@ -15,7 +15,7 @@ The left hand side can be factored to give the following
 $$(x+3)(x-7) = 0$$
 By appealing to the zero factor property we have the following
 $$\begin{align}
-x+3 &= 0 \implies x=-3 \\
+x+3 &= 0 \implies x=-3 \\ 
 x-7 &= 0 \implies x = 7
 \end{align}$$
 At this point, we have two solution **CANDIDATES**.  Keep in mind, the input to logarithms may not be negative.  We must test all solution **CANDIDATES** in the inputs of the logarithms to verify a negative number is not passed into a logarithm.
